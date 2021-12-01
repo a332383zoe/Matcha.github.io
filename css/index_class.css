@@ -147,7 +147,7 @@ section#about .about-img_container img{
 
 /* 風景特色 */
 section#landscape {
-  background: #f9f9fb;
+  background: #ffffff;
   clip-path: polygon(0% 0%, 100% 5%, 100% 100%, 0% 95%);
 }
 section#landscape .landscape-photos {
